@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ .Title }} | NSXplus</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+
+<table>
+
+<tr>
+<td colspan="2" class="header">
+NSXplus - Where Retro Meets Modern Development
+</td>
+</tr>
+
+<tr>
+<td colspan="2" class="nav">
+<a href="/">Home</a>
+<a href="/about/">About</a>
+<a href="/tutorials/">Tutorials</a>
+<a href="/downloads/">Downloads</a>
+<a href="/blog/">Blog</a>
+<a href="https://nikkix.me">Portfolio</a>
+</td>
+</tr>
+
+<tr>
+
+<td class="sidebar">
+
+{{ partial "sidebar.html" . }}
+
+</td>
+
+<td class="content">
+{{ block "main" . }}{{ end }}
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" class="footer">
+© {{ now.Year }} NSXplus
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
