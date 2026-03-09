@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to NSXplus on 8Bit Dev &amp; More</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to NSXplus on 8Bit Dev &amp; More</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2026 10:11:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Hugo Post</title>
+      <link>http://localhost:1313/blog/my-first-hugo-post/</link>
+      <pubDate>Mon, 09 Mar 2026 10:11:27 -0500</pubDate>
+      <guid>http://localhost:1313/blog/my-first-hugo-post/</guid>
+      <description>Welcome to my first Hugo post. I am testing out some new stuff and hoping to code my blog from scratch so I can have more freedom.&#xA;One thing I would like to say is that there will be ADs enabled through Google Sense. Now I like to use ad blockers so I will not tell you to use it or not. I only enabled this to generate earnings and I know it won&amp;rsquo;t be much but at least it&amp;rsquo;s something.</description>
+    </item>
+    <item>
+      <title>C64 Basic Guide</title>
+      <link>http://localhost:1313/tutorials/c64-basic-guide/</link>
+      <pubDate>Mon, 09 Mar 2026 09:09:49 -0500</pubDate>
+      <guid>http://localhost:1313/tutorials/c64-basic-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Game</title>
+      <link>http://localhost:1313/downloads/my-first-game/</link>
+      <pubDate>Mon, 09 Mar 2026 09:09:43 -0500</pubDate>
+      <guid>http://localhost:1313/downloads/my-first-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome to NSXplus</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>NSXplus is a hub for exploring the intersection of retro computing and modern programming.&#xA;Here, you&amp;rsquo;ll find tutorials, source code, game development experiments, and insights into classic 8-bit systems. I also compete in Game Jams and welcome anyone who would like to collaborate.&#xA;What You’ll Find Here Source Code &amp;amp; Downloads – Explore free projects, small games, and experimental code. Game Development Experiments – From tiny retro-style games to larger hobby projects.</description>
+    </item>
+  </channel>
+</rss>
