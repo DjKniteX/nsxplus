@@ -5,10 +5,10 @@ body{
     margin:0;
 }
 
-table{
-    width:900px;
-    margin:auto;
-    border-collapse:collapse;
+table {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
 }
 
 .header{
@@ -29,6 +29,7 @@ table{
     text-decoration:none;
     margin-right:20px;
     font-size:14px;
+    display: inline-block;
 }
 
 .nav a:hover{
@@ -109,3 +110,19 @@ table{
     color: #00ff88;
 }
 
+@media (max-width: 768px) {
+
+  table, tr, td {
+    display: block;
+    width: 100%;
+  }
+
+  .sidebar {
+    order: 2;
+  }
+
+  .content {
+    order: 1;
+  }
+
+}
