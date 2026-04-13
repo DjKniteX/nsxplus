@@ -126,3 +126,22 @@ table {
   }
 
 }
+
+td {
+    background: #202020;
+    border: 1px solid #333;
+}
+
+th {
+    background: #111;
+    color: #00ff88;
+    font-family: "Courier New", monospace;
+}
+
+tr:nth-child(even) td {
+    background: #1a1a1a;
+}
+
+tr:hover td {
+    background: #2a2a2a;
+}

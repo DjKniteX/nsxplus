@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<h1>Software Archive</h1>
+
+<table border="1" width="100%" cellpadding="8" cellspacing="0">
+
+<tr style="background:#111; color:#00ff88;">
+  <th>Type</th>
+  <th>Name</th>
+  <th>Platform</th>
+  <th>Description</th>
+  <th>Download</th>
+</tr>
+
+{{ range .Pages.ByTitle }}
+
+<tr>
+
+<td>
+  {{ if eq .Params.type "game" }}
+   Game
+  {{ else if eq .Params.type "tool" }}
+    Software
+  {{ else }}
+    Unknown
+  {{ end }}
+</td>
+
+<td>{{ .Title }}</td>
+
+<td>{{ .Params.platform }}</td>
+
+<td>{{ .Params.description }}</td>
+
+<td>
+  {{ if .Params.download }}
+    <a href="{{ .Params.download }}">Download</a>
+  {{ end }}
+</td>
+
+</tr>
+
+{{ end }}
+
+</table>
+
+{{ end }}
