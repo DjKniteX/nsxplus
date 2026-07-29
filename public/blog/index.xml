@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 8Bit Dev &amp; More</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on 8Bit Dev &amp; More</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2026 20:42:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog #1 for Secrets of Bastille</title>
+      <link>http://localhost:1313/blog/devlog-%231-for-secrets-of-bastille/</link>
+      <pubDate>Wed, 18 Mar 2026 20:42:32 -0500</pubDate>
+      <guid>http://localhost:1313/blog/devlog-%231-for-secrets-of-bastille/</guid>
+      <description>&lt;p&gt;Been making some progress on Demo 2! Was going to re-do the dungeon system for the MZ version but I decided to make it work in Demo 2 and have a page open for it on RPG Maker Web.&lt;/p&gt;&#xA;&lt;p&gt;I am working with ChatGPT to help create some plugins while I do the code review with the UI. I am aiming for a Dragon Quest/Mystery Dungeon style UI as you can see in the screenshot below&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning the Tic80</title>
+      <link>http://localhost:1313/blog/learning-the-tic80/</link>
+      <pubDate>Thu, 12 Mar 2026 21:42:55 -0500</pubDate>
+      <guid>http://localhost:1313/blog/learning-the-tic80/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m back with another update and this time I&amp;rsquo;m leaning into the Tic-80 Fantasy Console.&lt;/p&gt;&#xA;&lt;p&gt;I really like how you can use multiple languages but I ended up going to stick with Lua incase I want to work on projects in Pico-8 or try Love2D again.&lt;/p&gt;&#xA;&lt;p&gt;I also like how it&amp;rsquo;s open-source and essentially free with a pro version so I can experiment with no issues. Other features I like is more resolution and able to use keyboard/mouse (point and click adventure games anyone?), as well as addtional players and controller buttons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mini March Update</title>
+      <link>http://localhost:1313/blog/mini-march-update/</link>
+      <pubDate>Tue, 10 Mar 2026 20:54:41 -0500</pubDate>
+      <guid>http://localhost:1313/blog/mini-march-update/</guid>
+      <description>&lt;p&gt;Been pretty busy this month so far! I been working some new projects and almost done tidying up my first Commodore 64 homebrew made entirely using Basic. I have some ideas to push more into it but I think it&amp;rsquo;s okay. It&amp;rsquo;s playable now but I&amp;rsquo;m waiting on Chat GPT to come up with some cool cover art for it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/DjKniteX/MirageWars/&#34;&gt;https://github.com/DjKniteX/MirageWars/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some upcoming projects for the sake of retro programing is that I would like to only work with stuff that can be cross-developed, using tools and games that can be made on multiple OSs. I will be doing stuff with tic-80 and very soon, Eldiron.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Hugo Post</title>
+      <link>http://localhost:1313/blog/my-first-hugo-post/</link>
+      <pubDate>Mon, 09 Mar 2026 10:11:27 -0500</pubDate>
+      <guid>http://localhost:1313/blog/my-first-hugo-post/</guid>
+      <description>&lt;p&gt;Welcome to my first Hugo post. I am testing out some new stuff and hoping to code my blog&#xA;from scratch so I can have more freedom.&lt;/p&gt;&#xA;&lt;p&gt;One thing I would like to say is that there will be ADs enabled through Google Sense. Now I like to use ad blockers so I will not tell you to use it or not. I only enabled this to generate earnings and I know it won&amp;rsquo;t be much but at least it&amp;rsquo;s something. So if you are reading this without an ad blocker awesome, if not, don&amp;rsquo;t worry too much about it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to NSXplus!</title>
+      <link>http://localhost:1313/blog/welcome-to-nsxplus/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/welcome-to-nsxplus/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimIN4arL8_OwMMiaT-9fYePfL0xXhqDKXh65Uae4qam9aE8q1_Cd5G2hS4EXD29xyS2comtzwrVJhDSzG_iA1Sf46thVWHLqHhO7Fn2YOzMJLNf5rwxJqi44uC9CmovstIUcsRrq_s7dfNl1sEO4gRnXLrpTBuIfZLGzLxnGLww7tTfhhhFJkNO5PxcP4/s1536/nsxplus.webp&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimIN4arL8_OwMMiaT-9fYePfL0xXhqDKXh65Uae4qam9aE8q1_Cd5G2hS4EXD29xyS2comtzwrVJhDSzG_iA1Sf46thVWHLqHhO7Fn2YOzMJLNf5rwxJqi44uC9CmovstIUcsRrq_s7dfNl1sEO4gRnXLrpTBuIfZLGzLxnGLww7tTfhhhFJkNO5PxcP4/s320/nsxplus.webp&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello everyone! Welcome to NSXplus! Named with my initials and my (future)&#xA;love of the MSX computers. I am rebranding to do a lot of retro coding which I&#xA;hope to dev log and open up a youtube channel as well, something along the&#xA;lines of LGR and 8bitguy but more towards coding 8bit games.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s still in early stages but I would try to blog all things retro tech as&#xA;well as my cybersecurity journey. Which on the other hand, have gotten to an&#xA;okay start where I volunteered to do some website testing where I attempted to&#xA;do an SQL injection and ran Burp Suite to find cookie vulnerabilities. So far&#xA;so good on that end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>March update</title>
+      <link>http://localhost:1313/blog/march-update/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/march-update/</guid>
+      <description>&lt;p&gt;Hey guys, will be working on some cool stuff later this year after I set up&#xA;my new workstation.&lt;/p&gt;&#xA;&lt;p&gt;As of right now, I am learning Evennia, self-teaching myself computer&#xA;science, and learning Basic C64 and Assembly language.&lt;/p&gt;&#xA;&lt;p&gt;Working on a drug wars type game for the  C64 using BASIC. It&amp;rsquo;ll be called&#xA;Mirage Wars and it still a work in progress. Hoping to push it out later this&#xA;month. planning on buying a controller and a flash cart for my c64 soon to&#xA;test it out on actual hardware&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Back to the grind</title>
+      <link>http://localhost:1313/blog/back-to-the-grind/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/back-to-the-grind/</guid>
+      <description>&lt;p&gt;I began my passion projects. With a lot of down time at work I was able to&#xA;get my coding environment up and running for C, C++, C#, Python, and Assembly.&lt;/p&gt;&#xA;&lt;p&gt;I am currently learning 6502/6510 Assembly and looking to make quick roms for&#xA;both the C64 and NES for learning before I dig into them completely.&lt;/p&gt;&#xA;&lt;p&gt;I am going to be learning C# to work with Monogame and experiment with that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passion Projects</title>
+      <link>http://localhost:1313/blog/passion-projects/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/passion-projects/</guid>
+      <description>&lt;p&gt;Okay it&amp;rsquo;s been awhile and I haven&amp;rsquo;t gotten around to work on my WGU article&#xA;but I am now officially, Nikki X, M.S.&lt;/p&gt;&#xA;&lt;p&gt;I would like to work towards CISSP but first I want to try to get into&#xA;academia by parting a part time adjunct faculty teaching intro comp sci&#xA;classes.&lt;/p&gt;&#xA;&lt;p&gt;I been working on slide decks and doing research in this field and would like&#xA;to start writing essays on my topic which I will self-published here. It will&#xA;most likely be simple APA essays while I work towards my goals.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It&#39;s been awhile but...</title>
+      <link>http://localhost:1313/blog/its-been-awhile-but.../</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/its-been-awhile-but.../</guid>
+      <description>&lt;p&gt;I graduated with my MS in Cybersecurity and Information Assurance! It&amp;rsquo;s been&#xA;such a grind lately and haven&amp;rsquo;t been blogging as much I wanted to. I&amp;rsquo;ll get&#xA;another post regarding my last weeks and how I had to redo the capstone a&#xA;couple of times and what my topic was.&lt;/p&gt;&#xA;&lt;p&gt;I just started Game Off 2025 using pico-8 and hoping to get started on the&#xA;actual game soon.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be in Las Vegas for Pokemon Regionals in a few weeks. and I&amp;rsquo;m looking to&#xA;start up my start up again. IT Services based out of a garage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It&#39;s been awhile but...</title>
+      <link>http://localhost:1313/blog/its-been-awhile-but/</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/its-been-awhile-but/</guid>
+      <description>&lt;p&gt;I graduated with my MS in Cybersecurity and Information Assurance! It&amp;rsquo;s been&#xA;such a grind lately and haven&amp;rsquo;t been blogging as much I wanted to. I&amp;rsquo;ll get&#xA;another post regarding my last weeks and how I had to redo the capstone a&#xA;couple of times and what my topic was.&lt;/p&gt;&#xA;&lt;p&gt;I just started Game Off 2025 using pico-8 and hoping to get started on the&#xA;actual game soon.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be in Las Vegas for Pokemon Regionals in a few weeks. and I&amp;rsquo;m looking to&#xA;start up my start up again. IT Services based out of a garage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Going Byond with Mockinbird</title>
+      <link>http://localhost:1313/blog/going-byond-with-mockinbird/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/going-byond-with-mockinbird/</guid>
+      <description>&lt;p&gt;Some team news for mockinbird.dev since its been awhile but I&amp;rsquo;m going to&#xA;pivot the team to a small indie team that works/build games using old tech&#xA;(and maybe some new depending on the project) such as Byond.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m still going to have the main focus for mockinbird.dev to be a game jam&#xA;team so we will be working mostly with RPG Maker and Byond.&lt;/p&gt;&#xA;&lt;p&gt;Our Game Jam tech will now either be RPG Maker or Pico for quick development&#xA;and used as framework for future projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It&#39;s been awhile</title>
+      <link>http://localhost:1313/blog/its-been-awhile/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/its-been-awhile/</guid>
+      <description>&lt;p&gt;Hey everyone, it&amp;rsquo;s been a couple months since I last blogged but life has&#xA;been crazy and I&amp;rsquo;m still job searching! I did pass the D487 Exam and now&#xA;working on D488. I am 1 exam and 2 essays away from finishing and looking to&#xA;get that done before October.&lt;/p&gt;&#xA;&lt;p&gt;My plan is to work on D488 by the end of June and start the first paper in&#xA;July and start my last course in August.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 28: Gotta do a retake</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-28-gotta-do-a-retake/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-28-gotta-do-a-retake/</guid>
+      <description>&lt;p&gt;First retake I gotta do. Sorry for the late post but if I had to guess I was&#xA;probably just about 3-5 questions away from passing out of 66. D487 has a lot&#xA;of terms and I will need to study up on them as well as the differences&#xA;between AGILE/Waterfall.&lt;/p&gt;&#xA;&lt;p&gt;Thankfully I&amp;rsquo;m still ahead by 2 months. Hoping to do a course once a month but&#xA;I will try to get a retake scheduled soon and start on D488 next.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 28: Gotta do a retake</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-28-gotta-do-a-retake/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-28-gotta-do-a-retake/</guid>
+      <description>&lt;p&gt;First retake I gotta do. Sorry for the late post but if I had to guess I was&#xA;probably just about 3-5 questions away from passing out of 66. D487 has a lot&#xA;of terms and I will need to study up on them as well as the differences&#xA;between AGILE/Waterfall.&lt;/p&gt;&#xA;&lt;p&gt;Thankfully I&amp;rsquo;m still ahead by 2 months. Hoping to do a course once a month but&#xA;I will try to get a retake scheduled soon and start on D488 next.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 27: Almost Test Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-27-almost-test-time/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-27-almost-test-time/</guid>
+      <description>&lt;p&gt;Nothing major to note, just been studying for D487. I didn&amp;rsquo;t do too bad&#xA;during the practice OA but I think I&amp;rsquo;ll take another practice one and hop in&#xA;for the actual exam sometime next week.&lt;/p&gt;&#xA;&lt;p&gt;I did just release the first version of my web rpg framework that was help&#xA;built using AI. Now that the source is up, I hope someone can make something&#xA;cool with it. Otherwise, I&amp;rsquo;ll be going through and refactoring and doing bug&#xA;fixes when I see it. I already got a project board up for it so I&amp;rsquo;ll be doing&#xA;that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 26: We are back at it again!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-26-we-are-back-at-it-again/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-26-we-are-back-at-it-again/</guid>
+      <description>&lt;p&gt;My last portion of Fin Aid has pulled through with them loans but I am&#xA;defientily starting my last term now. 4 classes left, 6 months to go. D487 is&#xA;back and I&amp;rsquo;m hoping to finish the study materials by the end of the weekend&#xA;and study for the exam next week.&lt;/p&gt;&#xA;&lt;p&gt;Started work on idleMirage, I&amp;rsquo;ll try to post as much as I can on it as I&amp;rsquo;m&#xA;messing around with AI while implementing my own logic and testing for it.&#xA;It&amp;rsquo;s to create a newbie friendly PBBG framework where people can learn and&#xA;build their own webgames like it&amp;rsquo;s the early 90s again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 26: We are back at it again!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-26-we-are-back-at-it-again/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-26-we-are-back-at-it-again/</guid>
+      <description>&lt;p&gt;My last portion of Fin Aid has pulled through with them loans but I am&#xA;defientily starting my last term now. 4 classes left, 6 months to go. D487 is&#xA;back and I&amp;rsquo;m hoping to finish the study materials by the end of the weekend&#xA;and study for the exam next week.&lt;/p&gt;&#xA;&lt;p&gt;Started work on idleMirage, I&amp;rsquo;ll try to post as much as I can on it as I&amp;rsquo;m&#xA;messing around with AI while implementing my own logic and testing for it.&#xA;It&amp;rsquo;s to create a newbie friendly PBBG framework where people can learn and&#xA;build their own webgames like it&amp;rsquo;s the early 90s again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 24/25 - No Classes</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-2425-no-classes/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-2425-no-classes/</guid>
+      <description>&lt;p&gt;Just finished moving to Texas, dropped my Secure System Design Class as I&#xA;wasn&amp;rsquo;t going to finish it on time but I will start the April term next week.&lt;/p&gt;&#xA;&lt;p&gt;Will see you guys then.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 23: Another Class Down! (D485 Tips)</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-23-another-class-down-d485-tips/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-23-another-class-down-d485-tips/</guid>
+      <description>&lt;p&gt;I got the results for D485 about a day after I submitted and passed it first&#xA;try! A lot of folks seems to hate this class and I will say that the PA was&#xA;kind of tedious but overall it was not that bad especially since I was&#xA;unfamiliar with Azure Cloud and was able to learn as I go.&lt;/p&gt;&#xA;&lt;p&gt;I forgot where I saw it but if you are about to take D485 - Cloud Security, I&#xA;would say try to find the PA template as it gives you tips/notes on what they&#xA;expect and it helped a lot with writing the PA. I knew what to look for, a&#xA;hint on where it would be, and screenshots of what needs to be done. The books&#xA;that they had you read was pretty good, I&amp;rsquo;m going to pick up a hard copy. The&#xA;book is called: &lt;em&gt;Cloud security handbook: Find out how to effectively secure&#xA;cloud environments using AWS, Azure, and GCP&lt;/em&gt; which you can grab on Amazon&#xA;here: &lt;a href=&#34;https://www.amazon.com/Cloud-Security-Handbook-effectively-&#34;&gt;https://www.amazon.com/Cloud-Security-Handbook-effectively-&lt;/a&gt;&#xA;environments/dp/180056919X/ref=sr_1_1?crid=1DT7UX66TA05K&amp;amp;dib=eyJ2IjoiMSJ9.q8wRh-&#xA;XPeMlnkSYYQ7JEwA.NuGZnT9gFIV07nSi0B67M_igq_5nuvMLD0Uh80hxyho&amp;amp;dib_tag=se&amp;amp;keywords=Cloud+security+handbook%3A+Find+out+how+to+effectively+secure+cloud+environments+using+AWS%2C+Azure%2C+and+GCP&amp;amp;qid=1741757547&amp;amp;sprefix=cloud+security+handbook+find+out+how+to+effectively+secure+cloud+environments+using+aws%2C+azure%2C+and+gcp%2Caps%2C386&amp;amp;sr=8-1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA Week 22: It&#39;s Too Soon To Start Over</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-22-its-too-soon-to-start-over/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-22-its-too-soon-to-start-over/</guid>
+      <description>&lt;p&gt;Just submitted my PA for D485 and now I&amp;rsquo;m debating if I want to start on the&#xA;next course to get a head start for the next semester. I&amp;rsquo;ll see how I feel&#xA;when I wake up the next day.&lt;/p&gt;&#xA;&lt;p&gt;Once I get a score/status on the PA I&amp;rsquo;ll detail what to look for in the next&#xA;post but for this week I been working on my homelab while packing to move to&#xA;Plano.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week: 21 - Almost Done</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-21-almost-done/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-21-almost-done/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re about a month away and I&amp;rsquo;m going to work on my last class. It looks&#xA;like I&amp;rsquo;ll be able to start on the next class and drop so it doesn&amp;rsquo;t affect me&#xA;and will give me a head start for when I start on the program again in May.&lt;/p&gt;&#xA;&lt;p&gt;Nothing major as I just got back from Londom from judging EUIC but I am&#xA;planning on working on my personal projects as well as starting a new TCG&#xA;Podcast as well as my new retro computing channel starting with C64 stuff.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 20: London Time!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia---week-20-london-time/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia---week-20-london-time/</guid>
+      <description>&lt;p&gt;Been casually going through the course material and doing some of the reading&#xA;and it&amp;rsquo;s all been pretty interesting. Making me wanna pivot from the hands on&#xA;SOC stuff to more GRC related auditing jobs.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m about to hop on the plane to London but when I get back next week I will&#xA;grind on looking for a new job. I&amp;rsquo;ll apply for unemployment and look for roles&#xA;that I really want.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 20: London Time!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-20-london-time/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-20-london-time/</guid>
+      <description>&lt;p&gt;Been casually going through the course material and doing some of the reading&#xA;and it&amp;rsquo;s all been pretty interesting. Making me wanna pivot from the hands on&#xA;SOC stuff to more GRC related auditing jobs.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m about to hop on the plane to London but when I get back next week I will&#xA;grind on looking for a new job. I&amp;rsquo;ll apply for unemployment and look for roles&#xA;that I really want.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 19 - Pentest&#43; Passed!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-19-pentest-passed/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-19-pentest-passed/</guid>
+      <description>&lt;p&gt;Big news&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I passed the Pentest+ with a score of 761 which I did 10 points better than&#xA;CySa+. It was a little bit harder but the labs were probably the best part.&lt;/p&gt;&#xA;&lt;p&gt;Now it&amp;rsquo;s time for the other big news&amp;hellip;. I got laid off so I&amp;rsquo;m going to be job&#xA;hunting as soon as I get back from London and enjoy a little bit of me time.&lt;/p&gt;&#xA;&lt;p&gt;I am working on D485, which is Cloud Security. Thankfully it&amp;rsquo;s mainly a Lab&#xA;with a paper assessment so I&amp;rsquo;ll be focusing my free time on this. Last course&#xA;for the term!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 18 - Paper Assessment done, time for the exam.</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-18-paper-assessment-done-time-for-the-exam/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-18-paper-assessment-done-time-for-the-exam/</guid>
+      <description>&lt;p&gt;Got the passing mark for my paper assessment with no fixes/amends I needed to&#xA;do and now I&amp;rsquo;m off to focusing most of my school time on Pentest+&lt;/p&gt;&#xA;&lt;p&gt;I am currently taking Dion&amp;rsquo;s practice exams and casually reading through the&#xA;sybex book. I finished Dion&amp;rsquo;s PT0-002 notes and been going through the&#xA;tryhackme&amp;rsquo;s module for Pentest+&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m getting comfortable good scores and knowing what I miss when casually&#xA;doing the exams. (I finish them in 20 minutes or less). I&amp;rsquo;ll take extra time&#xA;when doing the actual exam. I usually spend about 45 minutes answering first&#xA;then doing the PBQs then use the remaining time to double check my answers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 17 - Cram Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-17-cram-time/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-17-cram-time/</guid>
+      <description>&lt;p&gt;Just cramming for Pentest+ and spending most of my free time working on labs&#xA;and studying. I am almost done with the Paper Assessment for D484 and it&amp;rsquo;s&#xA;pretty straightforward once I figured out what I wanted to write and gather my&#xA;sources.&lt;/p&gt;&#xA;&lt;p&gt;I might tend to overthink things but once I&amp;rsquo;m in the zone I am locked in.&lt;/p&gt;&#xA;&lt;p&gt;Hoping to turn it in for review in a couple of days and if I need to revise&#xA;hoping to get that done by the end of the weekend so I can focus mainly on&#xA;Pentesting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 16 - Nothing New</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-16-nothing-new/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-16-nothing-new/</guid>
+      <description>&lt;p&gt;Hey guys, sorry for the late post. Forgot there was a 3 day weekend. Still&#xA;studying and working on my paper assessment.&lt;/p&gt;&#xA;&lt;p&gt;Started doing some C# work so I&amp;rsquo;ll get working on my own personal projects&#xA;soon.&lt;/p&gt;&#xA;&lt;p&gt;February 7th is a couple weeks ago.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s get a pass!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 15: PenTest&#43; Scheduled!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-15-pentest-scheduled/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-15-pentest-scheduled/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s on for February 7th, and I&amp;rsquo;ll be seeing Set Your Goals as a happy man or&#xA;a sad man but either way I am releasing some frustration that night.&lt;/p&gt;&#xA;&lt;p&gt;Right now I am finishing up the PT-003 Dion Course on Udemy just by listening&#xA;to it in the background. I know the exam is on PT-002 so I&amp;rsquo;ll be working on&#xA;PBQs and domain/practice exams for those until February.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 14 - Back to Pentest&#43;</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-14-back-to-pentest/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-14-back-to-pentest/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s the end of my mini vacation and it&amp;rsquo;s the start of the new year. I just&#xA;have been working on Certmaster stuff and now I&amp;rsquo;m getting down into study&#xA;mode. Nothing much of an update but I am going through the PBQs and Final&#xA;Assessment studying.&lt;/p&gt;&#xA;&lt;p&gt;It feels like half of it is CySA+/Security+ and the other half is all new&#xA;(Pentest+) I&amp;rsquo;m thinking I should be okay but I should learn how each tool&#xA;works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 13 - New Years</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-13-new-years/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-13-new-years/</guid>
+      <description>&lt;p&gt;Late post, but happy new years! Nothing new on my end except that I&amp;rsquo;m going&#xA;to be working on some new projects now.&lt;/p&gt;&#xA;&lt;p&gt;Paper RPG Maker looks cool and I plan on using that for a short series of&#xA;games I want to do.&lt;/p&gt;&#xA;&lt;p&gt;Still studying for that PenTest+ and hoping to take it in early February so I&#xA;can start my next course and finish it before the end of May&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 12 - Time for Vacation</title>
+      <link>http://localhost:1313/blog/wgu-mscsia---week-12---time-for-vacation/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia---week-12---time-for-vacation/</guid>
+      <description>&lt;p&gt;I was able to wrap up the certmaster lesson plan but now I&amp;rsquo;ll try to get some&#xA;of the quizzes in before attempting the practice assessment.&lt;/p&gt;&#xA;&lt;p&gt;Looking to still get my Pentest+ exam in early February. It&amp;rsquo;s the holiday&#xA;break so no major updates.&lt;/p&gt;&#xA;&lt;p&gt;Happy Holidays&lt;/p&gt;&#xA;&lt;p&gt;See yall next year&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 12 - Time for Vacation</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-12-time-for-vacation/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-12-time-for-vacation/</guid>
+      <description>&lt;p&gt;I was able to wrap up the certmaster lesson plan but now I&amp;rsquo;ll try to get some&#xA;of the quizzes in before attempting the practice assessment.&lt;/p&gt;&#xA;&lt;p&gt;Looking to still get my Pentest+ exam in early February. It&amp;rsquo;s the holiday&#xA;break so no major updates.&lt;/p&gt;&#xA;&lt;p&gt;Happy Holidays&lt;/p&gt;&#xA;&lt;p&gt;See yall next year&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 11 - Holiday Month</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-11-holiday-month/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-11-holiday-month/</guid>
+      <description>&lt;p&gt;Nothing new here! Did get my CySa+ and waiting for the certificate in the&#xA;mail. It&amp;rsquo;s the holidays and I&amp;rsquo;m just catching up on video games while casually&#xA;going through Certmaster for Pentest+.&lt;/p&gt;&#xA;&lt;p&gt;Nothing super new, probably be short posts leading up to the new years.&lt;/p&gt;&#xA;&lt;p&gt;Might be going to London in February though. haven&amp;rsquo;t updated my Resume but I&#xA;did change my Linkedin. Might need to update a bunch of stuff as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 11 - Holiday Month</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-11---holiday-month/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-11---holiday-month/</guid>
+      <description>&lt;p&gt;Nothing new here! Did get my CySa+ and waiting for the certificate in the&#xA;mail. It&amp;rsquo;s the holidays and I&amp;rsquo;m just catching up on video games while casually&#xA;going through Certmaster for Pentest+.&lt;/p&gt;&#xA;&lt;p&gt;Nothing super new, probably be short posts leading up to the new years.&lt;/p&gt;&#xA;&lt;p&gt;Might be going to London in February though. haven&amp;rsquo;t updated my Resume but I&#xA;did change my Linkedin. Might need to update a bunch of stuff as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 10: CySa&#43; Certified &#43; Pentesting Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-10-cysa-certified-pentesting-time/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-10-cysa-certified-pentesting-time/</guid>
+      <description>&lt;p&gt;I passed! It was a tough one but I was able to endure 2+ hours and come home&#xA;being certified. The questions written were a lot harder than Security+ but I&#xA;think I aced the PBQs with me thinking there was probably 1 or 2 I might have&#xA;gotten wrong but I felt comfortable with the PBQs.&lt;/p&gt;&#xA;&lt;p&gt;My study guide the 2 weeks before the exam were:&lt;/p&gt;&#xA;&lt;p&gt;Dion Udemy Videos + Practice Exams&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 9: It&#39;s Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-9-its-time/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-9-its-time/</guid>
+      <description>&lt;p&gt;Nothing new. Just been studying. CySA+ scheduled for this Friday. Let&amp;rsquo;s cram&#xA;it in!&lt;/p&gt;&#xA;&lt;p&gt;Also released my Game Off 2024 game:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://djknitex.itch.io/a-little-town-with-not-so-litle-secrets&#34;&gt;https://djknitex.itch.io/a-little-town-with-not-so-litle-secrets&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;That&amp;rsquo;s it. Just studying and taking the test. Will report back next week.&lt;/p&gt;&#xA;&lt;p&gt;My Study Guide:&lt;/p&gt;&#xA;&lt;p&gt;Following the Dion Study Notes before Bed&lt;/p&gt;&#xA;&lt;p&gt;Watching CySA+ Videos in the background at work&lt;/p&gt;&#xA;&lt;p&gt;Taking practice exams&lt;/p&gt;&#xA;&lt;p&gt;(After finishing CertMaster)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 8: Relaxing Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-8-relaxing-time/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-8-relaxing-time/</guid>
+      <description>&lt;p&gt;Slow week. With the access to Udemy with WGU I was able to enroll into Dion&amp;rsquo;s&#xA;Training Course for CySA+ so I been watching that in the background and&#xA;reading the study notes before build. So far, it&amp;rsquo;s been great and I just been&#xA;relaxing for the most part.&lt;/p&gt;&#xA;&lt;p&gt;I scheduled the exam for December 6, so once Thanksgiving is over I&amp;rsquo;m going to&#xA;buckle down and cram for a week.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 7: CySA&#43; Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-7-cysa-time/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-7-cysa-time/</guid>
+      <description>&lt;p&gt;Just wrapped up Week 7 and finished the Paper Assignment. It wasn&amp;rsquo;t that bad.&#xA;I was expecting an essay but it was pretty straightforward. It did got sent&#xA;back because I misread one of the columns. The virtual lab that you had to do&#xA;for the Paper Assignment was a bit confusing cause it doesn&amp;rsquo;t label what you&#xA;need to go to so you&amp;rsquo;ll have to do some cyber sleuthing which I believe is a&#xA;skill that everyone should master.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA Week 6: Security Operations and CySA&#43; Crunch Time</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-6-security-operations-and-cysa-crunch-time/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-6-security-operations-and-cysa-crunch-time/</guid>
+      <description>&lt;p&gt;Another week has gone by and I was able to finish D486 GRC first try! No&#xA;comment from me except to just follow the rubric. I am not trying to finish a&#xA;class in a day or in a week because I would like to retain the information I&amp;rsquo;m&#xA;learning. When I started this paper, I would try to do a section per day (at&#xA;least outlining) and then when I feel like it&amp;rsquo;s good to go, then I have a go&#xA;at it and write to my heart&amp;rsquo;s content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA Week 5: Beginning of November</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-5-beginning-of-november/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-5-beginning-of-november/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s the beginning of November and I just submitted my paper for D486! I&amp;rsquo;m&#xA;about 50/50 on it and I&amp;rsquo;m sure I&amp;rsquo;ll get it returned to fix something only&#xA;because the rubric for was very ambiguous. I think I know what they want but I&#xA;will see what happens after they review it.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m pulling through D482 especially the certmaster lessons. I been going&#xA;through them on my spare time at work and work on the practice quizzes when I&#xA;can. The labs are pretty good as they provide hands on experience with tools&#xA;and software that I normally don&amp;rsquo;t use at work. There is a paper assignment&#xA;for this course as well but it doesn&amp;rsquo;t look too bad. It looks like you fill&#xA;out the a form regarding the lab you took. I only just saw a glimpse of it so&#xA;I&amp;rsquo;m not 100% sure until I actually tackle it. I&amp;rsquo;m hoping to take the CySa+&#xA;exam before Thanksgiving (Or earlier!) and get the next course started by the&#xA;end of November too. (Or early December!)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA Week 4: Almost the end of the 1st month.</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-4-almost-the-end-of-the-1st-month/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-4-almost-the-end-of-the-1st-month/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s almost the end of October and I&amp;rsquo;m about to wrap up my 2nd class. I&amp;rsquo;m&#xA;still working through the PA and I&amp;rsquo;m hoping to get it done by October 31st. I&#xA;started it last week but took a couple days break to hit up some concerts in&#xA;Los Angeles and San Jose.&lt;/p&gt;&#xA;&lt;p&gt;This paper had more research I needed to do but once I got the materials I&#xA;needed, it&amp;rsquo;ll be a breeze! (I needed to look at impact rating standards). I&#xA;also have to find sources supporting the rating and how to deal with them as&#xA;well for D486. But now that I know how the assessments are done, my tip is to&#xA;write with the rubric. If it tells you to list 3 things, list those 3 things.&#xA;No less and no more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA Week 3: Passed D482!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-3-passed-d482/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-3-passed-d482/</guid>
+      <description>&lt;p&gt;Week 3 has finished and got the email this morning that I passed D482!&lt;/p&gt;&#xA;&lt;p&gt;I did have to do a revision and thankfully it was all minor. I only had to fix&#xA;some things in 2 parts but considering that I haven&amp;rsquo;t done any paper essays in&#xA;about a decade I didn&amp;rsquo;t feel bad at all.For anyone reading. For anyone reading&#xA;and getting ready to start the course, I would recommend to double check your&#xA;work and make sure you follow what the rubric needs. Don&amp;rsquo;t over think it too&#xA;much. Try to start writing what you want to write, templating your essay and&#xA;then start on it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA - Week 2: Beginning my 2nd class!</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-2-beginning-my-2nd-class/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-2-beginning-my-2nd-class/</guid>
+      <description>&lt;p&gt;Week 2 was a breeze. I started my 2nd course which I ended up doing D486&#xA;Governance since it&amp;rsquo;s another paper assessment course. I am listening/watching&#xA;CySA+ videos while I&amp;rsquo;m doing the labs and course material to get a head start&#xA;which I&amp;rsquo;m hoping to commit to CySA+ by the end of October and be certified in&#xA;early November!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m almost done with the paper assessment for D482 and I did a lot of research&#xA;to make sure I was on the right track. Been looking at reddit for tips but now&#xA;that I started writing the paper, it&amp;rsquo;s all coming together. I might have been&#xA;overthinking it or it could be because I haven&amp;rsquo;t been doing anything school&#xA;related in over a decade. I had to look up how to write an essay and what APA&#xA;sources were!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 1</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-1/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-1/</guid>
+      <description>&lt;p&gt;Week 1 have finished and it&amp;rsquo;s been great! I enjoy the labs as I get to&#xA;experience software I have yet to use and watch*(listen) to the videos while I&#xA;do them. I just finished the course material and will begin working on the&#xA;Paper Assignment. I&amp;rsquo;m hoping to submit it by Friday and start the next course&#xA;by the weekend. (And then use next week to fix/edit if needed).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WGU MSCSIA: Week 1</title>
+      <link>http://localhost:1313/blog/wgu-mscsia-week-1/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wgu-mscsia-week-1/</guid>
+      <description>&lt;p&gt;Week 1 have finished and it&amp;rsquo;s been great! I enjoy the labs as I get to&#xA;experience software I have yet to use and watch*(listen) to the videos while I&#xA;do them. I just finished the course material and will begin working on the&#xA;Paper Assignment. I&amp;rsquo;m hoping to submit it by Friday and start the next course&#xA;by the weekend. (And then use next week to fix/edit if needed).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time to start classes</title>
+      <link>http://localhost:1313/blog/time-to-start-classes/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/time-to-start-classes/</guid>
+      <description>&lt;p&gt;I am now a student at WGU and I begin my Masters journey in less than a few&#xA;weeks. I&amp;rsquo;m planning on grinding and hoping to do weekly blog posts to follow&#xA;my journey as I tackle the MSCSIA program.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m coming in with the ISC^2 CC transferred as well as Security+ experience&#xA;(in terms of educational wise).&lt;/p&gt;&#xA;&lt;p&gt;My goal is to finish the paper classes in less than 2 weeks and spend most of&#xA;my time on the Comptia exams as they are the ones I believe matters most.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects underway!</title>
+      <link>http://localhost:1313/blog/projects-underway/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/projects-underway/</guid>
+      <description>&lt;p&gt;Going to be a short post! But I will start showing progress on my projects&#xA;soon.&lt;/p&gt;&#xA;&lt;p&gt;Hollowgrounds is going back into Development later this Fall/Winter&lt;/p&gt;&#xA;&lt;p&gt;I am starting a new short RPG to learn the in and outs of RPG Maker MV before&#xA;moving to MZ (Or Unite)&lt;/p&gt;&#xA;&lt;p&gt;I pushed back my start date for my Masters Program to October 1st (Give me&#xA;more time to prep in advanced)&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m now turning team skynite into a digital media creation company.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects underway!</title>
+      <link>http://localhost:1313/blog/projects-underway/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/projects-underway/</guid>
+      <description>&lt;p&gt;Going to be a short post! But I will start showing progress on my projects&#xA;soon.&lt;/p&gt;&#xA;&lt;p&gt;Hollowgrounds is going back into Development later this Fall/Winter&lt;/p&gt;&#xA;&lt;p&gt;I am starting a new short RPG to learn the in and outs of RPG Maker MV before&#xA;moving to MZ (Or Unite)&lt;/p&gt;&#xA;&lt;p&gt;I pushed back my start date for my Masters Program to October 1st (Give me&#xA;more time to prep in advanced)&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m now turning team skynite into a digital media creation company.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I&#39;m an ISC2 Member now.</title>
+      <link>http://localhost:1313/blog/im-an-isc2-member-now/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/im-an-isc2-member-now/</guid>
+      <description>&lt;p&gt;I took and passed my test on the same day (July 15) and received my&#xA;certificate the next day. 50$ a year isn&amp;rsquo;t that bad especially since the&#xA;program makes you get CPE (continue education) to keep your certificates. I&#xA;like this approach because I feel like many people earn certs and when they&#xA;don&amp;rsquo;t get a job they just let it sit there and they are not doing anything to&#xA;level up or keep up with the trend.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I&#39;m a graduate student now.. I think</title>
+      <link>http://localhost:1313/blog/im-a-graduate-student-now..-i-think/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/im-a-graduate-student-now..-i-think/</guid>
+      <description>&lt;p&gt;When I think of Graduate students I think of those who is working on their&#xA;masters/Ph.D but at a brick and mortar school where they get a stipend and all&#xA;that. (I might be misremembering). But I&amp;rsquo;m officially been admitted to WGU&amp;rsquo;s&#xA;Master Program for Cybersecurity and Information Assurance. (referring to this&#xA;program as MSCSIA from now on).&lt;/p&gt;&#xA;&lt;p&gt;And I&amp;rsquo;m pretty excited!&lt;/p&gt;&#xA;&lt;p&gt;I have my (ISC)2 CC exam scheduled for next week and if I pass I hope I can&#xA;use that to take one less class which means one less exam so I can finish way&#xA;earlier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I&#39;m a graduate student now.. I think</title>
+      <link>http://localhost:1313/blog/im-a-graduate-student-now-i-think/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/im-a-graduate-student-now-i-think/</guid>
+      <description>&lt;p&gt;When I think of Graduate students I think of those who is working on their&#xA;masters/Ph.D but at a brick and mortar school where they get a stipend and all&#xA;that. (I might be misremembering). But I&amp;rsquo;m officially been admitted to WGU&amp;rsquo;s&#xA;Master Program for Cybersecurity and Information Assurance. (referring to this&#xA;program as MSCSIA from now on).&lt;/p&gt;&#xA;&lt;p&gt;And I&amp;rsquo;m pretty excited!&lt;/p&gt;&#xA;&lt;p&gt;I have my (ISC)2 CC exam scheduled for next week and if I pass I hope I can&#xA;use that to take one less class which means one less exam so I can finish way&#xA;earlier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I got another test coming up</title>
+      <link>http://localhost:1313/blog/i-got-another-test-coming-up/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/i-got-another-test-coming-up/</guid>
+      <description>&lt;p&gt;So I saw that WGU has ISC2 CC certification as part of the program and I also&#xA;found out that the exam + training is currently free so I decided to take it&#xA;and scheduled for Mid July and use it to transfer over to WGU for me to take&#xA;one less class. Which means less stress and be ahead to finish within 6&#xA;months! (one term).&lt;/p&gt;&#xA;&lt;p&gt;The certifications are going to be nice and recently discovered about the&#xA;CISSP certification which is probably going to be my end-game goal alongside&#xA;the CASP+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another Summer Jam</title>
+      <link>http://localhost:1313/blog/another-summer-jam/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/another-summer-jam/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s Intern Season, so expect to see many interns on campus! Life is looking&#xA;good, weather is being nice and all in all I&amp;rsquo;m proud of what I been able to&#xA;achieve this year.&lt;/p&gt;&#xA;&lt;p&gt;I sent in my application to attend WGU for their Masters program for&#xA;Cybersecurity unfortunately I am not qualified for Fafsa. I was able to submit&#xA;my certification to see what can be transferred over so I&amp;rsquo;m thinking if I can&#xA;buckle down I can complete the program in 6 months and take a 5k hit. or 1&#xA;year and it be just shy of 10k. Which isn&amp;rsquo;t too bad considering I&amp;rsquo;ll be&#xA;getting a Masters degree + certifications. I think I can do it in 6 months but&#xA;I&amp;rsquo;ll definitely be able to do it one year.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>June Post</title>
+      <link>http://localhost:1313/blog/june-post/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/june-post/</guid>
+      <description>&lt;p&gt;Finally, a new post!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m able to get some time to sit down and blog something again with some news.&#xA;I passed the CompTIA Security+ exam with 761 pts! It was close but I managed&#xA;to pull through. I almost used up my time as well. I think I was just under 10&#xA;minutes when I finished and I&amp;rsquo;ll tell you it was a tough one.&lt;/p&gt;&#xA;&lt;p&gt;With this certificate, I learned new skills and now I have something to add to&#xA;my resume to make it stand out more. Now my next step is to fast track to&#xA;Network+ so when I do have to renew my Sec+ I would have Network+ renewed as&#xA;well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It&#39;s time!</title>
+      <link>http://localhost:1313/blog/its-time/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/its-time/</guid>
+      <description>&lt;p&gt;Sorry for the late post, but I been busy studying and situating with finances&#xA;that I&amp;rsquo;m finally able to sit down and write.&lt;/p&gt;&#xA;&lt;p&gt;So to the new stuff. My business unit at my current company is being sold and&#xA;it looks like we might be able to hear something as early as next week!&lt;/p&gt;&#xA;&lt;p&gt;May is going to look pretty busy.  I am volunteering as a Judge for the&#xA;Pokemon Regionals in Los Angeles and I am now finished with the Calbright&#xA;course that I&amp;rsquo;m spending half of my day studying for it. There&amp;rsquo;s no trick but&#xA;what I&amp;rsquo;m doing is getting a list of flash cards to print out so I can study it&#xA;at home and been listening to SYS-601 videos at work and when I&amp;rsquo;m doing chores&#xA;in the background. So my study load looks like:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A quick update!</title>
+      <link>http://localhost:1313/blog/a-quick-update/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/a-quick-update/</guid>
+      <description>&lt;p&gt;Just wanted to let you guys know what&amp;rsquo;s been going on these last few weeks +&#xA;upcoming weeks as I may not blog until April.&lt;/p&gt;&#xA;&lt;p&gt;I started my professional development again with Calbright Cyber Security&#xA;training almost done. Planning on takin the Security+ Exam sometime in April!&#xA;I&amp;rsquo;m going to start casually studying every night and then buckle down a week&#xA;or two before.&lt;/p&gt;&#xA;&lt;p&gt;I relogged into my Udemy and found that I have not completed a lot of the&#xA;courses  I bought ranging from web dev to game development so I decided to&#xA;start on Django again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Long March</title>
+      <link>http://localhost:1313/blog/a-long-march/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/a-long-march/</guid>
+      <description>&lt;p&gt;Hello everyone! I&amp;rsquo;m back at relearning Python/Django and been doing a udemy&#xA;course! As I mentioned before, this will help me work with Evennia a lot&#xA;better/easier and will give me a leg up in Cyber Security since a lot of&#xA;scripting is mostly done in Python.&lt;/p&gt;&#xA;&lt;p&gt;After getting more comfortable with Python, I would like to learn and use&#xA;pygame for game jams moving forward (with the occasional Pico8). I&amp;rsquo;m hoping to&#xA;begin using python/pygame for the 2024 Version!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>February Update</title>
+      <link>http://localhost:1313/blog/february-update/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/february-update/</guid>
+      <description>&lt;p&gt;Hello everyone, been working on setting up my server now that I gotten it and&#xA;have gotten a good stream of regular users playing. My electricity went up&#xA;100% though but I moved to a newer place where it&amp;rsquo;s cheaper so I&amp;rsquo;m able to&#xA;spare a few bucks.&lt;/p&gt;&#xA;&lt;p&gt;Hollowgrounds is still on pause but I am doing the world building during my&#xA;free time while learning BASIC and 6502 Assembly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It&#39;s been awhile</title>
+      <link>http://localhost:1313/blog/its-been-awhile/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/its-been-awhile/</guid>
+      <description>&lt;p&gt;Sorry I been MIA! I have a lot to catch up but I spent the holidays relaxing&#xA;and moving to my new apartment!&lt;/p&gt;&#xA;&lt;p&gt;I been gearing up for what I&amp;rsquo;m going to present later this year with multiple&#xA;projects that I been working on. I finished laying out my novel and hoping to&#xA;begin writing that this year and finish it sometime next year or after.&lt;/p&gt;&#xA;&lt;p&gt;My dream projects are now part of the same Mythos that share similarities but&#xA;not directly related. Somewhat similar to the Ivalice Alliance. They&amp;rsquo;re share&#xA;some stuff but not everything.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GO23 - Pre Blog</title>
+      <link>http://localhost:1313/blog/go23-pre-blog/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/go23-pre-blog/</guid>
+      <description>&lt;p&gt;Hey guys, taking a 95% pause on HG right now to focus on Game Off 2023! I&#xA;didn&amp;rsquo;t get to do it last year since we did the multiplayer summer jam one but&#xA;this time we are going in full force!&lt;/p&gt;&#xA;&lt;p&gt;This year we will be learning Godot and turning this project into a text-&#xA;adventure game that takes place in Space with the theme of Scales.&lt;/p&gt;&#xA;&lt;p&gt;The game will obviously be open source and so the game will be titled: The&#xA;Tales of Three Scales.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HG Log #6: End of October</title>
+      <link>http://localhost:1313/blog/hg-log-6-end-of-october/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hg-log-6-end-of-october/</guid>
+      <description>&lt;p&gt;Hey everyone, sorry it&amp;rsquo;s been awhile but I have been busy this month. I&#xA;interviewed for an internal project, I returned from Sacramento from Judging&#xA;Pokemon Regionals and now I&amp;rsquo;m getting some time in to work on personal&#xA;projects before Game Jam November!&lt;/p&gt;&#xA;&lt;p&gt;I was able to get some work done for Hollowgrounds. I finished the basic&#xA;template map for the 2nd area and after I tidy some of this up I will begin&#xA;working on the 4 quests that will be featured in the Beta that will happen&#xA;later this year early next!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HG Log #5 / Busy Week</title>
+      <link>http://localhost:1313/blog/hg-log-5-busy-week/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hg-log-5-busy-week/</guid>
+      <description>&lt;p&gt;Hey guys, it&amp;rsquo;s been awhile but October has been pretty busy so far. Catching&#xA;up with school and working towards landing a 6 month project to do Mobile App&#xA;Testing so I been preparing for that. Not much details about this project just&#xA;yet since my Manager presented the short term project to us recently so I will&#xA;find out soon. I know we have to interview for it and I saw the prep and it&#xA;looks somewhat easy with a minor things that I&amp;rsquo;m familiar with but not enough&#xA;to go into details so I will work on that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HG Log #4</title>
+      <link>http://localhost:1313/blog/hg-log-4/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hg-log-4/</guid>
+      <description>&lt;p&gt;Hello October 1st! It&amp;rsquo;s been awhile since we worked on this but now that time&#xA;is freeing up, this month will be a little busy as we finished the template of&#xA;the Beta maps, only thing left is to make it pretty!&lt;/p&gt;&#xA;&lt;p&gt;we have finished templating the first village, the training caves, nearby&#xA;areas that takes you to the first cave/tunnel that will take you to the 2nd&#xA;village available in the Prologue.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HG Devlog #3 - Mapping</title>
+      <link>http://localhost:1313/blog/hg-devlog-3-mapping/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hg-devlog-3-mapping/</guid>
+      <description>&lt;p&gt;Hey guys, A small update as in there probably be less development time this&#xA;week due to studying and I&amp;rsquo;m seeing a concert and just going to relax from the&#xA;pc every once in awhile but I&amp;rsquo;ll still blog. But once the weekend hits I&amp;rsquo;ll be&#xA;doing more work.&lt;/p&gt;&#xA;&lt;p&gt;I finished Baldur&amp;rsquo;s Gate 3 and it&amp;rsquo;s a sweet game. Thinking of playing it again&#xA;in the Winter. But I&amp;rsquo;m currently setting up my Wii to run retroarch on my CRT&#xA;TV (13&amp;rsquo; Toshiba TV with a built in DVD-Player) to play some old classic RPGS&#xA;to get some inspirations in terms of storylines, mapping, and art&#xA;inspirations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slow week</title>
+      <link>http://localhost:1313/blog/slow-week/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/slow-week/</guid>
+      <description>&lt;p&gt;Nothing much to say. Just been a slow week getting back into the groove of&#xA;things since I got back from vacation. I am currently learning how to do pixel&#xA;art and been on the drawing boards for the MUD which I will announce soon.&#xA;Will give you the engine that I  am working on which is MirageMUD. This MUD&#xA;will follow the structure of Ember Online but will take place in Space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History of the Gaiuss Trilogy (Cartuga, Gralina, and now Hollowgrounds)</title>
+      <link>http://localhost:1313/blog/history-of-the-gaiuss-trilogy-cartuga-gralina-and-now-hollowgrounds/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/history-of-the-gaiuss-trilogy-cartuga-gralina-and-now-hollowgrounds/</guid>
+      <description>&lt;p&gt;Not a dev log but just a quick history of the game series and why I want to&#xA;make this the way it is now.&lt;/p&gt;&#xA;&lt;p&gt;At the time of this writing, Hollowground is the current work in project with&#xA;many other projects I have on the pipeline, which also includes the Cartuga -&#xA;Definitive Edition. I was able to find the original source, thankfully I had&#xA;it up on my Github so I will take a look, rebalance it, add some new stuff and&#xA;re-release it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gralina/HG - Dev Log #2</title>
+      <link>http://localhost:1313/blog/gralinahg-dev-log-2/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/gralinahg-dev-log-2/</guid>
+      <description>&lt;p&gt;If you guys are wondering what the HG stands for in the title, it&amp;rsquo;s the name&#xA;of the game now. So moving forward, Hollowgrounds is the name of the main game&#xA;where Gralina will be the first Episode/Chapter of the game. With the 2nd&#xA;Episode, being an expansion. I&amp;rsquo;m expecting the dev lifespan at the rate that&#xA;we are going is at least a year and a half. Server will be up until someone&#xA;beats the game and then after that the server will be up for at least another&#xA;year or until the server dies (if I decided to get like a 3 year server plan,&#xA;etc)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gralina - DEV LOG #1</title>
+      <link>http://localhost:1313/blog/gralina-dev-log-1/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/gralina-dev-log-1/</guid>
+      <description>&lt;p&gt;Hello everyone, welcome to my first Dev Log. A written one at that because I&#xA;feel like I can probably write what I want instead of freestyling on the top&#xA;of my head. Anyways, I wanted to let you guys know that I brought Gralina back&#xA;from the dead. Originally a RPG Maker MV game as a sequel to my class-project,&#xA;Cartuga, I decided to turn this one into an online game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World... From Byond!</title>
+      <link>http://localhost:1313/blog/hello-world-from-byond/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world-from-byond/</guid>
+      <description>&lt;p&gt;Before I get right to it, I just wanted to announce that I proably be closing&#xA;my original blog that I had running for almost a decade at&#xA;&lt;a href=&#34;https://djknitex.wordpress.com&#34;&gt;https://djknitex.wordpress.com&lt;/a&gt;. It&amp;rsquo;s seen better days and now that I&amp;rsquo;m more&#xA;focused on my professional career than my non-existent esports and music&#xA;career. I might as well pivot over here. Needless to say, I will continue&#xA;blogging but I will be more active on this one.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Start of September</title>
+      <link>http://localhost:1313/blog/the-start-of-september/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-start-of-september/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s August 31st. The end of August and I have to say that I have relearned a&#xA;lot of stuff in terms of programming but I&amp;rsquo;m happy to pick up where I left&#xA;off. I have decided to enroll into Calbright College since it&amp;rsquo;s free for&#xA;students in California for their Cyber Security program where we can learn and&#xA;obtain CompTIA Security+ Certificate, which is an industry standard. My goal&#xA;with this program is to add this to my portfolio and level up in my career.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Byond Programming!</title>
+      <link>http://localhost:1313/blog/byond-programming/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/byond-programming/</guid>
+      <description>&lt;p&gt;So I began learning how to program DM, Dream Maker (The Language Byond uses)&#xA;and its been very fun. I have seen this a very long time ago and wasn&amp;rsquo;t very&#xA;appealing at the time haha.&lt;/p&gt;&#xA;&lt;p&gt;Byond stands for Build Your Own Net Dream and that&amp;rsquo;s what I&amp;rsquo;m going to do. I&#xA;began going through some documentation and watching a few videos to get a hang&#xA;of things and I think I&amp;rsquo;ll be comfortable enough with it by the end of the&#xA;year to publish something. I will most likely use this for Game Jam 2023.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>End of the Month</title>
+      <link>http://localhost:1313/blog/end-of-the-month/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/end-of-the-month/</guid>
+      <description>&lt;p&gt;I am currently taking a work vacation in LA from the Bay and decided to work&#xA;on my personal projects in the mean time. Since I was young I always wanted to&#xA;build a game in VB6 since at the time every body was coding and making games&#xA;using VB (and similar languages) at least for the games I was following.&lt;/p&gt;&#xA;&lt;p&gt;During the weekend I decided to look at &lt;a href=&#34;https://www.byond.com/?&#34;&gt;Byond&#xA;&lt;/a&gt;because that was one of the few instances where I&#xA;stumbled upon code (especially source code). I took at a look at the&#xA;documentation and then I realized how much of a &amp;ldquo;legacy&amp;rdquo; language it was and&#xA;how I should add it to my portfolio for nostalgia reasons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python3</title>
+      <link>http://localhost:1313/blog/python3/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/python3/</guid>
+      <description>&lt;p&gt;Back with another blog post. Right now, I am currently learning Django with a&#xA;course I bought from Udemy. I figured since Evennia has their webapp side of&#xA;things built with Django, I might as well learn how Django works if I wanted&#xA;to make changes to the website. This is also an excuse to learn more Python in&#xA;depth rather than just working on the mud with it so yeah. It&amp;rsquo;ll be a win win&#xA;situation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Summer Jams</title>
+      <link>http://localhost:1313/blog/summer-jams/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/summer-jams/</guid>
+      <description>&lt;p&gt;I got out and dusted off a spare Macbook Pro I had which I am now using to get&#xA;back into djing and doing gigs. I also brought it out so I can work on my&#xA;projects on a better environment. I actually would have used Ubuntu but I&#xA;needed a system where I can do both djing and programming on the side.&lt;/p&gt;&#xA;&lt;p&gt;Not much news here but with the MUD being built with Evennia, I decided that&#xA;my first web rpg is going to be done in Django so my python knowledge will&#xA;overlap.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Year, New Me</title>
+      <link>http://localhost:1313/blog/new-year-new-me/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/new-year-new-me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m back at it again and hopefully I&amp;rsquo;ll be more active. At least once  a&#xA;month! Anyways a quick update going into this new year is that I&amp;rsquo;m finally up&#xA;in Silicon Valley. I&amp;rsquo;ve always wanted to live here for the longest time and it&#xA;feels so surreal haha. Maybe I&amp;rsquo;ll start vlogging again.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently liking my new job and I have taken the time to re-learn Go (the&#xA;game) and picking up backgammon. I haven&amp;rsquo;t done a whole lot in the city just&#xA;yet but I plan on joining various meetup groups.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multiplayer Game Jam 2022</title>
+      <link>http://localhost:1313/blog/multiplayer-game-jam-2022/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/multiplayer-game-jam-2022/</guid>
+      <description>&lt;p&gt;Nothing too huge but I&amp;rsquo;m putting together a team with some of the folks over&#xA;at mockinbird.dev to compete in our next Game Jam this fall!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://itch.io/jam/back-to-school-multiplayer-game-jam-2022&#34;&gt;https://itch.io/jam/back-to-school-multiplayer-game-jam-2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Some of our teammates have experience with Unity but not with Photon so this&#xA;will be interesting. I&amp;rsquo;ll most likely be taking over creative design and&#xA;initial code as I am also learning C#/Unity on the side with BASIC/ASM6502.&lt;/p&gt;&#xA;&lt;p&gt;So far so good.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Some tech news!</title>
+      <link>http://localhost:1313/blog/some-tech-news/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/some-tech-news/</guid>
+      <description>&lt;p&gt;I just started a new role and getting my foot wet in the Cyber Security&#xA;world! I&amp;rsquo;ll be auditing code making sure there are up to date and nothing is&#xA;wrong (Hopefully no body sticking in hidden crypto miners in their code)&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently still onboarding/training but the company sounds really good to&#xA;work with so I&amp;rsquo;m hoping to learn more in the mean time.&lt;/p&gt;&#xA;&lt;p&gt;I started learning Assembly and C64 Basic again so I&amp;rsquo;m hoping to punch out&#xA;some cool homebrew with some real hardware soon! I have tons of resources that&#xA;I&amp;rsquo;m going through so I&amp;rsquo;m hoping to knock some text adventure games out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Game Jam submission and future Python learning</title>
+      <link>http://localhost:1313/blog/new-game-jam-submission-and-future-python-learning/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/new-game-jam-submission-and-future-python-learning/</guid>
+      <description>&lt;p&gt;Our first game under the mockinbird.dev has been released for NaNoRenO 2022!&#xA;Link here: &lt;a href=&#34;https://djknitex.itch.io/echoes-that-sing&#34;&gt;https://djknitex.itch.io/echoes-that-sing&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6PjsCLcyJiVezM8tP-4djmP3-aWmxYeoywyaS5gDCGy39OdJA3jRQXT1Tdp0fpFr4fwsZYdwW75N8-OjZq1jrwUpC1o1S-voPpqMWzkvfKUCIUnEbJH_uu1ZOLVNPknabyAxwck4Opv4_EcEo5WLOtcjcMV5e1tkCJoUlLlTw9ZuXVxs6BVlvn97/s1280/title.jpg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6PjsCLcyJiVezM8tP-4djmP3-aWmxYeoywyaS5gDCGy39OdJA3jRQXT1Tdp0fpFr4fwsZYdwW75N8-OjZq1jrwUpC1o1S-voPpqMWzkvfKUCIUnEbJH_uu1ZOLVNPknabyAxwck4Opv4_EcEo5WLOtcjcMV5e1tkCJoUlLlTw9ZuXVxs6BVlvn97/s320/title.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aside from that, I know it&amp;rsquo;s going to be a small post but I started re-&#xA;learning Python as well as SQL to be able to get on track to become a Junior&#xA;Data Scientist at my current company. So I&amp;rsquo;m on the grind and will report back&#xA;with other Python related things I will be doing (Or web dev!)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Look Out! Dev Blog #1</title>
+      <link>http://localhost:1313/blog/look-out-dev-blog-1/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/look-out-dev-blog-1/</guid>
+      <description>&lt;p&gt;We been at this for a couple of weeks taking on as Lead Developer and&#xA;defactor scrum master. Would like to introduce old collaborator Matthew again&#xA;while taking on new Audio Engineer, Quintin (Longtime member of Team SKYNITE)&#xA;to add music/sounds for us.&lt;/p&gt;&#xA;&lt;p&gt;So we decided to use rot.js to make a roguelike based game within the bugs&#xA;theme using a boilerplate by chr15m and its been working wonders while adding&#xA;some of our own new features in. We have about one week to finish before we go&#xA;on Holiday mode then its QA and bug mashing after that. Hopefully we can take&#xA;top 100 this time!  Our last year submission didn&amp;rsquo;t do too hot but the one&#xA;before we made it to top 75!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Off 2021 is a go!</title>
+      <link>http://localhost:1313/blog/game-off-2021-is-a-go/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/game-off-2021-is-a-go/</guid>
+      <description>&lt;h2 id=&#34;em03uekvsxcesikjqtsftnxc6gnidflkqkfxho3bjouzcnde6z9nbpmg9ki9rpyutiq00gqmbynwg3r84qqar_djm5s1292&#34;&gt;[![](https://blogger.googleusercontent.com/img/a/AVvXsEh4eZdGnV10joncpcgOwRAUj3FAuB1hz6OFpSUbtdG92kVSgO30rqI5T7aim5SkxAYAmfWyx6maAiw71gAIRVWXL6l5mGUBw-&#xA;Em03uEKvSxCESIKJQtsFtNxc6gnIdFLkQkFXHo3bJoUZCndE6Z9nBPmG9Ki9RpyuTIQ00gqMbyNWG3R84qqAR_djm5=w400-h280)](&lt;a href=&#34;https://blogger.googleusercontent.com/img/a/AVvXsEh4eZdGnV10joncpcgOwRAUj3FAuB1hz6OFpSUbtdG92kVSgO30rqI5T7aim5SkxAYAmfWyx6maAiw71gAIRVWXL6l5mGUBw-&#34;&gt;https://blogger.googleusercontent.com/img/a/AVvXsEh4eZdGnV10joncpcgOwRAUj3FAuB1hz6OFpSUbtdG92kVSgO30rqI5T7aim5SkxAYAmfWyx6maAiw71gAIRVWXL6l5mGUBw-&lt;/a&gt;&#xA;Em03uEKvSxCESIKJQtsFtNxc6gnIdFLkQkFXHo3bJoUZCndE6Z9nBPmG9Ki9RpyuTIQ00gqMbyNWG3R84qqAR_djm5=s1292)&lt;/h2&gt;&#xA;&lt;p&gt;Our meeting in Gather;&lt;/p&gt;&#xA;&lt;p&gt;Our team is a go! We are now recruiting Quintin to help work on sound/audio&#xA;design so our game will have &amp;ldquo;professionally&amp;rdquo; made music and sounds!&lt;/p&gt;&#xA;&lt;p&gt;The theme for this year&amp;rsquo;s Game Off 2021 is Bugs and as we plan from our first&#xA;meeting we have a direction that we want to take.&lt;/p&gt;&#xA;&lt;p&gt;Nothing concrete for now but please feel free to follow along as I post more&#xA;updates. November is going to be busy!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFoJeiJBgb9lOcuD6J4Vl0Mgy7FCmawnNReAahqNo6jgSReFQJb_Bf_tPuwt3XFQdWG_jo82VtF76Pda9gSGAL4joMccN0sEpribQrvk-e9A3OOYuCwrT83eBVO3ZOL9zX2fUW1i_DHM/s800/Pixel_Nikki.png&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFoJeiJBgb9lOcuD6J4Vl0Mgy7FCmawnNReAahqNo6jgSReFQJb_Bf_tPuwt3XFQdWG_jo82VtF76Pda9gSGAL4joMccN0sEpribQrvk-e9A3OOYuCwrT83eBVO3ZOL9zX2fUW1i_DHM/s320/Pixel_Nikki.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey Guys. My name is Nikki X and I do a lot of things. By trade I&amp;rsquo;m a web&#xA;developer but at night I&amp;rsquo;m doing many different things. I am a competitive&#xA;card game player (Poker, Bridge, Pokemon and Digimon TCG), amateur competitive&#xA;Starcraft player. I love making music. I still DJ on the side. I work on a&#xA;Game Jam team. I also like cooking. I sometimes stream RE7 and in the future&#xA;will do RE8 and Dying Light speedruns.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My new blog</title>
+      <link>http://localhost:1313/blog/my-new-blog/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/my-new-blog/</guid>
+      <description>&lt;p&gt;Decided to make a new blog again. Keeping up with HexoJS was tiresome and&#xA;very hard to make a backup for (At least for me.) so I decided to go with&#xA;Blogger, which has then been very easy to setup and I used them for my other&#xA;projects as well.&lt;/p&gt;&#xA;&lt;p&gt;I know there&amp;rsquo;s nothing now but if you like to see my oldest posts feel free to&#xA;fork them from my Github.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
